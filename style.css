@@ -225,7 +225,7 @@ span {
 @keyframes words {
     0%,
     25% {
-        content: "Frontend Designer";
+        content: "UI/Ux Designer";
     }
     26%,
     50% {
@@ -237,7 +237,7 @@ span {
     }
     76%,
     100% {
-        content: "Scratcher";
+        content: "Ads Designer";
     }
 }
 @keyframes typing {
@@ -384,7 +384,7 @@ span {
     max-height: 200px;
     justify-content: left;
     align-items: baseline;
-    padding: 5rem;
+    padding: 5rem auto;
 }
 .services-info h4 {
     font-size: 3rem;
@@ -706,4 +706,5 @@ span {
     .projects-box img {
         min-width: 42rem;
     }
+
 }
