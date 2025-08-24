@@ -225,7 +225,7 @@ span {
 @keyframes words {
     0%,
     25% {
-        content: "UI/Ux Designer";
+        content: "UI/UX Designer";
     }
     26%,
     50% {
@@ -384,7 +384,7 @@ span {
     max-height: 200px;
     justify-content: left;
     align-items: baseline;
-    padding: 5rem auto;
+    padding: 5rem calc(50% -auto);
 }
 .services-info h4 {
     font-size: 3rem;
@@ -708,3 +708,4 @@ span {
     }
 
 }
+
